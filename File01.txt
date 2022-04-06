@@ -1,1 +1,3 @@
 Entered in File1
+
+Modified the file and fixed a bug
